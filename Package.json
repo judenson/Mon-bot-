@@ -1,0 +1,17 @@
+
+
+```json
+{
+  "name": "mon-bot",
+  "version": "1.0.0",
+  "description": "Un bot Discord simple",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
+```
+
